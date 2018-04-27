@@ -1,0 +1,11 @@
+﻿  GenerallAqueue.c
+c:\users\37807\source\repos\generallqueue\generallqueue\generallaqueue.c(114): warning C4033: “APrint”必须返回值
+c:\users\37807\source\repos\generallqueue\generallqueue\generallaqueue.c(117): warning C4033: “APrint”必须返回值
+c:\users\37807\source\repos\generallqueue\generallqueue\generallaqueue.c(113): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“void *”
+c:\users\37807\source\repos\generallqueue\generallqueue\generallaqueue.c(180): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\37807\source\repos\generallqueue\generallqueue\generallaqueue.c(180): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\37807\source\repos\generallqueue\generallqueue\generallaqueue.c(180): note: 缺失的可变参数 2 为格式字符串“%s”所需
+  c:\users\37807\source\repos\generallqueue\generallqueue\generallaqueue.c(180): note: 此参数用作缓冲区大小
+c:\users\37807\source\repos\generallqueue\generallqueue\generallaqueue.c(223): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“void *”
+c:\users\37807\source\repos\generallqueue\generallqueue\generallaqueue.c(118): warning C4716: “APrint”: 必须返回一个值
+  GeneralLqueue.vcxproj -> C:\Users\37807\source\repos\GeneralLqueue\Debug\GeneralLqueue.exe
