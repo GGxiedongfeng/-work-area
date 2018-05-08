@@ -1,0 +1,11 @@
+﻿  BinaryTree.cpp
+e:\训练营\bitree\bitree\binarytree.h(8): warning C4091: “typedef ”: 没有声明变量时忽略“BiTNode”的左侧
+  main.cpp
+e:\训练营\bitree\bitree\binarytree.h(8): warning C4091: “typedef ”: 没有声明变量时忽略“BiTNode”的左侧
+e:\训练营\bitree\bitree\main.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+e:\训练营\bitree\bitree\main.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+  queue.cpp
+e:\训练营\bitree\bitree\binarytree.h(8): warning C4091: “typedef ”: 没有声明变量时忽略“BiTNode”的左侧
+  正在生成代码...
+e:\训练营\bitree\bitree\queue.cpp(78): warning C4715: “queue::Front”: 不是所有的控件路径都返回值
+  BiTree.vcxproj -> E:\训练营\BiTree\Debug\BiTree.exe
